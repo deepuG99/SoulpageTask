@@ -1,0 +1,21 @@
+.heading {
+  color: rgb(52, 11, 218);
+  background-color: dodgerblue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  padding: 25px;
+  padding-top: 10px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  /* user-select: none; */
+}
+.h1 {
+  color: rgb(242, 241, 247);
+  background-color: dodgerblue;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  padding: 25px;
+  padding-top: 10px;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+}
